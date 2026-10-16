@@ -1,0 +1,7 @@
+#include <iostream>
+using name space stv022
+using name space std;
+int main(){
+    cout << "hello Ngan Anh\n"
+    return 0;
+}
